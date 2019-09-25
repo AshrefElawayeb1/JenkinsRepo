@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24730" started-at="2019-09-24T10:55:40Z" finished-at="2019-09-24T10:56:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24730" started-at="2019-09-24T10:55:40Z" finished-at="2019-09-24T10:56:05Z">
+      <class name="com.procrm.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.procrm.LoginPageTest@223d2c72]" name="setUp" is-config="true" duration-ms="19397" started-at="2019-09-24T06:55:40Z" finished-at="2019-09-24T06:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginHappyPathVerification()[pri:1, instance:com.procrm.LoginPageTest@223d2c72]" name="loginHappyPathVerification" duration-ms="3514" started-at="2019-09-24T06:56:00Z" finished-at="2019-09-24T06:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginHappyPathVerification -->
+        <test-method status="PASS" signature="homePageClick()[pri:2, instance:com.procrm.LoginPageTest@223d2c72]" name="homePageClick" duration-ms="1213" started-at="2019-09-24T06:56:03Z" finished-at="2019-09-24T06:56:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageClick -->
+      </class> <!-- com.procrm.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
